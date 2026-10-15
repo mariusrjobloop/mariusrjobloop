@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Assisterende faglig veileder på kurset, og frontend-utvikler til vanlig.
+
+TL;DR: Jeg sitter i klasserommet med dere og hjelper til når koden krangler. Lurer du på noe, send meg en melding eller bare kom bort.
+
+- React + Vite
+- CSS
+- Javascript / Typescript
+- TailwindCss
+  
+
 <!--
 **mariusrjobloop/mariusrjobloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
